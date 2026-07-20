@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently working on some GitHub basics
 <!--
 **Timonke27/Timonke27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
