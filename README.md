@@ -1,5 +1,7 @@
 ## Hi there 👋
 I'm currently working on some GitHub basics
+
+<img width="220" height="192" alt="dog-spinning" src="https://github.com/user-attachments/assets/f7f1b148-433d-4e67-a26b-d23fb9ed7ee1" />
 <!--
 **Timonke27/Timonke27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
