@@ -1,18 +1,48 @@
-## Hi there 👋
-I'm currently working on some GitHub basics
+## Hi, I'm Timon 👋
 
-<img width="220" height="192" alt="dog-spinning" src="https://github.com/user-attachments/assets/f7f1b148-433d-4e67-a26b-d23fb9ed7ee1" />
-<!--
-**Timonke27/Timonke27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MSc Biotechnology graduate from the Department of Biosystems Science and Engineering (D-BSSE), with a growing focus on computational approaches to biology and medicine.
 
-Here are some ideas to get you started:
+My research interests span computational protein design, structural biology, machine learning, and biomedical data science. I'm particularly interested in how computational and machine-learning methods can be used to understand biological systems, engineer biomolecules, and address problems in biomedicine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use GitHub to document projects that combine programming, scientific analysis, data visualization, and reproducible workflows.
+
+## Research Interests
+
+- Computational protein design and protein engineering
+- Structural biology and molecular modeling
+- Machine learning for biology and biomedicine
+- Biomedical and clinical data science
+- Bioinformatics and computational genomics
+- Scientific computing and data-driven biology
+
+## Technologies
+
+**Languages:** Python, R, Julia
+
+**Libraries:** NumPy, pandas, Matplotlib, Biopython
+
+**Tools:** Git, GitHub, pytest
+
+## Featured Projects
+
+### 🧬 Protein Structure Explorer
+
+A Python-based tool for exploring and analyzing protein structures from PDB files.
+
+- Downloads and parses protein structures from the RCSB PDB database
+- Extracts atom and alpha-carbon coordinates
+- Calculates pairwise CA distance matrices
+- Identifies residue contacts using configurable distance thresholds
+- Generates contact maps and contact statistics
+- Supports chain-specific structural analysis
+- Provides a command-line interface
+- Includes automated pytest coverage
+
+[View project →](https://github.com/Timonke27/protein-structure-explorer)
+
+## Links
+
+- [LinkedIn](www.linkedin.com/in/timon-keller-973399242)
+- [CV](...)
+- [Email](mailto:timon_keller@hotmail.com)
+
