@@ -42,7 +42,6 @@ A Python-based tool for exploring and analyzing protein structures from PDB file
 
 ## Links
 
-- [LinkedIn](www.linkedin.com/in/timon-keller-973399242)
-- [CV](...)
+- [LinkedIn](https://www.linkedin.com/in/timon-keller-973399242)
 - [Email](mailto:timon_keller@hotmail.com)
 
